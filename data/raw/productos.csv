@@ -1,0 +1,45 @@
+id_producto,nombre_producto,categoria
+103,Yogur Natural,Alimentacion
+104,Queso Cheddar,Alimentacion
+105,Pasta Integral,Alimentacion
+106,Aceite de Oliva,Alimentacion
+107,Mantequilla Salada,Alimentacion
+108,Huevos Frescos (Docena),Alimentacion
+109,Jamón Serrano,Alimentacion
+110,Mozzarella Fresca,Alimentacion
+111,Yogur Griego,Alimentacion
+112,Atún en Lata,Alimentacion
+113,Garbanzos Cocidos,Alimentacion
+114,Arroz Blanco,Alimentacion
+115,Lentejas Rojas,Alimentacion
+201,Croissant,Panaderia
+202,Donut de Chocolate,Panaderia
+203,Galletas Integrales,Panaderia
+204,Baguette Francesa,Panaderia
+205,Pan de Molde Blanco,Panaderia
+206,Pan Integral 500g,Panaderia
+207,Medialuna Rellena,Panaderia
+208,Magdalena Casera,Panaderia
+209,Arepa Precocida,Panaderia
+301,Zumo de Naranja,Bebidas
+302,Café Premium,Bebidas
+303,Té Verde,Bebidas
+304,Agua Mineral 1.5L,Bebidas
+305,Refresco de Cola,Bebidas
+306,Bebida Energética,Bebidas
+307,Leche Semidesnatada,Bebidas
+308,Horchata de Almendra,Bebidas
+309,Vino Tinto Reserva,Bebidas
+310,Cerveza Artesana,Bebidas
+401,Chocolate Negro,Confiteria
+402,Caramelos Variados,Confiteria
+403,Turrón de Almendra,Confiteria
+404,Bombones Surtidos,Confiteria
+405,Chicle de Menta,Confiteria
+406,Caramelo Sabor Fresa,Confiteria
+407,Nougat Francés,Confiteria
+501,Detergente Líquido,Higiene
+502,Jabón de Manos,Higiene
+503,Pasta de Dientes,Higiene
+504,Papel Higiénico Pack,Higiene
+505,Champú Neutro,Higiene

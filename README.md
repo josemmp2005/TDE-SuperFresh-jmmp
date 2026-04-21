@@ -214,7 +214,7 @@ El modelo RandomForest utiliza 15 características:
 - `dia_semana`: Día de la semana (1=domingo, 7=sábado)
 - `es_fin_de_semana`: 1 si es sábado/domingo, 0 si no
 
-### Features de Serie Temporal (3) ⭐ **MÁS IMPORTANTES**
+### Features de Serie Temporal (3)  **MÁS IMPORTANTES**
 - `lag_1`: Unidades vendidas del **día anterior**
 - `lag_7`: Unidades vendidas **hace 7 días**
 - `media_movil_7`: Promedio de ventas de los **últimos 7 días**
